@@ -19,7 +19,7 @@ L'utilisateur choisit une des options suivantes :
 -Sortir
 
 Puis il entre :
-- Une **clé** entière (positive ou négative)
+- Une **clé** entière
 - Un **message texte** (lettres uniquement, espaces autorisés)
 
 ---
