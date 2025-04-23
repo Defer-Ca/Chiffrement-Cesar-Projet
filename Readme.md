@@ -19,8 +19,8 @@ L'utilisateur choisit une des options suivantes :
 -Sortir
 
 Puis il entre :
-- Une **clé** entière
-- Un **message texte** (lettres uniquement, espaces autorisés)
+- Une **clé**
+- Un **message texte** (lettres uniquement)
 
 ---
 
